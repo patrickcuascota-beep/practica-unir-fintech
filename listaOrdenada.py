@@ -1,4 +1,4 @@
-# Lista ordenada sin considerar tildes
+# Lista ordenada sin considerar tildes PC
 import unicodedata
 
 datos = ["Árbol", "Zebra", "Índice", "Avión", "Único", "Barco"]
